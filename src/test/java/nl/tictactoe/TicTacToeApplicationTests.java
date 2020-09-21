@@ -1,4 +1,4 @@
-package nl.trifork.tictactoe;
+package nl.tictactoe;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

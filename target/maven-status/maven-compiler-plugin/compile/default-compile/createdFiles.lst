@@ -1,0 +1,8 @@
+nl\tictactoe\model\Cell.class
+nl\tictactoe\TicTacToeApplication.class
+nl\tictactoe\enums\GAMESTATE.class
+nl\tictactoe\GameLogicController.class
+nl\tictactoe\BoardService.class
+nl\tictactoe\BoardResponse.class
+nl\tictactoe\enums\MARK.class
+nl\tictactoe\model\Score.class
