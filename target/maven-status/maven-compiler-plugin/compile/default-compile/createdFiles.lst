@@ -1,8 +1,0 @@
-nl\trifork\tictactoe\BoardService.class
-nl\trifork\tictactoe\GameLogicController.class
-nl\trifork\tictactoe\enums\GAMESTATE.class
-nl\trifork\tictactoe\BoardResponse.class
-nl\trifork\tictactoe\enums\MARK.class
-nl\trifork\tictactoe\model\Score.class
-nl\trifork\tictactoe\TicTacToeApplication.class
-nl\trifork\tictactoe\model\Cell.class
